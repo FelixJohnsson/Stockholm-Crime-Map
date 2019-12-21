@@ -7,6 +7,9 @@ Link to API Documentation: https://polisen.se/om-polisen/om-webbplatsen/oppna-da
 TO-DO:
 
 Change icons based on crime type
+
 Make icons linked to official crime report
+
 Heat map option
+
 Save old crime reports in database
