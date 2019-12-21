@@ -6,6 +6,8 @@ Link to API Documentation: https://polisen.se/om-polisen/om-webbplatsen/oppna-da
 
 TO-DO:
 
+Add police stations with specific icon. Link: https://polisen.se/api/policestations
+
 Change icons based on crime type
 
 Make icons linked to official crime report
@@ -13,3 +15,4 @@ Make icons linked to official crime report
 Heat map option
 
 Save old crime reports in database
+
