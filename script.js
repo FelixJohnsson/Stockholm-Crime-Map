@@ -16,11 +16,7 @@ function render () {
             let latitude = e[i].location.gps.split(',')[1]
             let title = e[i].name
             let id = e[i].id.toString()
-            if (longitude > 58.752817 && longitude < 60.7422065){
-                if (latitude < 18.9249307 && latitude > 17.0440822){
-                    placeOnMap(latitude, longitude, title, id)
-                }
-            }
+                placeOnMap(latitude, longitude, title, id)
         }
 
     })
